@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home page on My Life</title>
+    <link>http://life.tczhong.com/</link>
+    <description>Recent content in Home page on My Life</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Nov 2021 21:28:28 -0700</lastBuildDate><atom:link href="http://life.tczhong.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>South CA trip</title>
+      <link>http://life.tczhong.com/la/</link>
+      <pubDate>Sat, 06 Nov 2021 21:28:28 -0700</pubDate>
+      
+      <guid>http://life.tczhong.com/la/</guid>
+      <description>adasdas
+     $(&#39;#imgGallery&#39;).justifiedGallery({ rowHeight : 200, lastRow : &#39;nojustify&#39;, margins : 3 }).on(&#39;jg.complete&#39;, function () { $(this).find(&#39;a&#39;).colorbox({maxWidth : &#39;80%&#39;, maxHeight : &#39;80%&#39;, opacity : 0.8, transition : &#39;elastic&#39;, current : &#39;&#39; });});   </description>
+    </item>
+    
+  </channel>
+</rss>
