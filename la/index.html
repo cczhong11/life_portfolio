@@ -17,7 +17,6 @@
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.colorbox/1.6.4/jquery.colorbox-min.js" integrity="sha512-DAVSi/Ovew9ZRpBgHs6hJ+EMdj1fVKE+csL7mdf9v7tMbzM1i4c/jAvHE8AhcKYazlFl7M8guWuO3lDNzIA48A==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.swipebox/1.4.4/js/jquery.swipebox.min.js" integrity="sha512-RcpE0ybOapw3Pl77Nz/la9grsKWw3MQXBoeiCg1y+psaqTNcSIQ8JYn4p3wG5XakxdyEYl/r22NLp3EYsX4SXg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script>
   document.createElement("picture");
 </script>
@@ -93,32 +92,36 @@
 <div class="categories clearfix bottom-space"><div class="category"><div class="category-content">欢迎来到我的小站 as</div></div></div></div>
     <div class="post-content">
       <p>adasdas</p>
-<div id="imgGallery" class="justified-gallery">
-    <a href="/uploads/IMG_5440.jpg">
-        <img alt="caption for image 1" src="/uploads/IMG_5440.jpg"/>
-    </a>
-    <a href="https://tczimg.s3.amazonaws.com/vscode/c4733129edc947c28dcf6c2fe3f01d15.png" title="Just in a dream Place">
-        <img alt="caption for image 2" src="https://tczimg.s3.amazonaws.com/vscode/c4733129edc947c28dcf6c2fe3f01d15.png"/>
-    </a>
-    <a href="https://tczimg.s3.amazonaws.com/vscode/c4733129edc947c28dcf6c2fe3f01d15.png" title="Just in a dream Place">
-        <img alt="caption for image 2" src="https://tczimg.s3.amazonaws.com/vscode/c4733129edc947c28dcf6c2fe3f01d15.png"/>
-    </a>
-</div>
-<script>
-    $('#imgGallery').justifiedGallery({
-    rowHeight : 200,
-    lastRow : 'nojustify',
-    margins : 3
-}).on('jg.complete', function () {
-            $(this).find('a').colorbox({maxWidth : '80%',
-				maxHeight : '80%',
-				opacity : 0.8,
-				transition : 'elastic',
-				current : ''
-});});
+<div id="content-gallery" class="justified-gallery">
+  <a href="/uploads/IMG_5440.jpg" title="">
+  <img alt="" src="/uploads/IMG_5440.jpg" />
+</a>
 
-</script><blockquote>
-</blockquote>
+  <a href="/uploads/home_hero.jpg" title="">
+  <img alt="" src="/uploads/home_hero.jpg" />
+</a>
+
+</div>
+
+<script>
+  $("#content-gallery")
+    .justifiedGallery({
+      rowHeight: 200,
+      rel: "gallery1",
+      lastRow: "nojustify",
+      margins: 3,
+    })
+    .on("jg.complete", function () {
+      $(this).find("a").colorbox({
+        maxWidth: "80%",
+        maxHeight: "80%",
+        opacity: 0.8,
+        transition: "elastic",
+        current: "",
+      });
+    });
+</script>
+
 
   </div>
   </div>

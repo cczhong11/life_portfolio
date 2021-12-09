@@ -14,7 +14,7 @@
       
       <guid>http://life.tczhong.com/la/</guid>
       <description>adasdas
-     $(&#39;#imgGallery&#39;).justifiedGallery({ rowHeight : 200, lastRow : &#39;nojustify&#39;, margins : 3 }).on(&#39;jg.complete&#39;, function () { $(this).find(&#39;a&#39;).colorbox({maxWidth : &#39;80%&#39;, maxHeight : &#39;80%&#39;, opacity : 0.8, transition : &#39;elastic&#39;, current : &#39;&#39; });});   </description>
+    $(&#34;#content-gallery&#34;) .justifiedGallery({ rowHeight: 200, rel: &#34;gallery1&#34;, lastRow: &#34;nojustify&#34;, margins: 3, }) .on(&#34;jg.complete&#34;, function () { $(this).find(&#34;a&#34;).colorbox({ maxWidth: &#34;80%&#34;, maxHeight: &#34;80%&#34;, opacity: 0.8, transition: &#34;elastic&#34;, current: &#34;&#34;, }); });  </description>
     </item>
     
   </channel>
