@@ -13,8 +13,9 @@
       <pubDate>Sat, 06 Nov 2021 21:28:28 -0700</pubDate>
       
       <guid>http://life.tczhong.com/la/</guid>
-      <description>adasdas
-    $(&#34;#content-gallery&#34;) .justifiedGallery({ rowHeight: 200, rel: &#34;gallery1&#34;, lastRow: &#34;nojustify&#34;, margins: 3, }) .on(&#34;jg.complete&#34;, function () { $(this).find(&#34;a&#34;).colorbox({ maxWidth: &#34;80%&#34;, maxHeight: &#34;80%&#34;, opacity: 0.8, transition: &#34;elastic&#34;, current: &#34;&#34;, }); });  </description>
+      <description>test 12312
+12312
+ 12312 asd       $(&#34;#content-gallery&#34;) .justifiedGallery({ rowHeight: 200, rel: &#34;gallery1&#34;, lastRow: &#34;nojustify&#34;, margins: 3, }) .on(&#34;jg.complete&#34;, function () { $(this).find(&#34;a&#34;).colorbox({ maxWidth: &#34;80%&#34;, maxHeight: &#34;80%&#34;, opacity: 0.8, transition: &#34;elastic&#34;, current: &#34;&#34;, }); });  </description>
     </item>
     
   </channel>
