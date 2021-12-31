@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My Life</title>
+    <link>http://life.tczhong.com/post/</link>
+    <description>Recent content in Posts on My Life</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 29 Dec 2021 21:28:28 -0700</lastBuildDate><atom:link href="http://life.tczhong.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Yosemite</title>
+      <link>http://life.tczhong.com/post/yosemite/</link>
+      <pubDate>Wed, 29 Dec 2021 21:28:28 -0700</pubDate>
+      
+      <guid>http://life.tczhong.com/post/yosemite/</guid>
+      <description>优胜美地是一个旅游胜地，我很有幸在夏天一览她的美丽。
+旅游攻略
+冰川顶 Glacier Point        $(&#34;#glacier-point&#34;) .justifiedGallery({ rowHeight: 200, rel: &#34;glacier-point&#34;, lastRow: &#34;nojustify&#34;, margins: 3, }) .on(&#34;jg.complete&#34;, function () { $(this).find(&#34;a&#34;).colorbox({ maxWidth: &#34;80%&#34;, maxHeight: &#34;80%&#34;, opacity: 0.8, transition: &#34;elastic&#34;, current: &#34;&#34;, }); });  Yosemite vally其实就在山下，下次有机会可以hiking爬上来。开车到这里还是需要1小时，挺远的。
+观景点 Tunnel View 这是一个经典的观景台，可以一览优胜美地的 El Capitan，Bridalveil Fall 以及 Half Dome
+   $(&#34;#tunnel-view&#34;) .justifiedGallery({ rowHeight: 200, rel: &#34;tunnel-view&#34;, lastRow: &#34;nojustify&#34;, margins: 3, }) .on(&#34;jg.complete&#34;, function () { $(this).</description>
+    </item>
+    
+  </channel>
+</rss>

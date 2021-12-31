@@ -8,12 +8,25 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 06 Nov 2021 21:28:28 -0700</lastBuildDate><atom:link href="http://life.tczhong.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>park list</title>
+      <title>Yosemite</title>
+      <link>http://life.tczhong.com/post/yosemite/</link>
+      <pubDate>Wed, 29 Dec 2021 21:28:28 -0700</pubDate>
+      
+      <guid>http://life.tczhong.com/post/yosemite/</guid>
+      <description>优胜美地是一个旅游胜地，我很有幸在夏天一览她的美丽。
+旅游攻略
+冰川顶 Glacier Point        $(&#34;#glacier-point&#34;) .justifiedGallery({ rowHeight: 200, rel: &#34;glacier-point&#34;, lastRow: &#34;nojustify&#34;, margins: 3, }) .on(&#34;jg.complete&#34;, function () { $(this).find(&#34;a&#34;).colorbox({ maxWidth: &#34;80%&#34;, maxHeight: &#34;80%&#34;, opacity: 0.8, transition: &#34;elastic&#34;, current: &#34;&#34;, }); });  Yosemite vally其实就在山下，下次有机会可以hiking爬上来。开车到这里还是需要1小时，挺远的。
+观景点 Tunnel View 这是一个经典的观景台，可以一览优胜美地的 El Capitan，Bridalveil Fall 以及 Half Dome
+   $(&#34;#tunnel-view&#34;) .justifiedGallery({ rowHeight: 200, rel: &#34;tunnel-view&#34;, lastRow: &#34;nojustify&#34;, margins: 3, }) .on(&#34;jg.complete&#34;, function () { $(this).</description>
+    </item>
+    
+    <item>
+      <title>National Park List</title>
       <link>http://life.tczhong.com/park/</link>
       <pubDate>Fri, 10 Dec 2021 21:28:28 -0700</pubDate>
       
       <guid>http://life.tczhong.com/park/</guid>
-      <description>Name Picture Location When Post      Lassen Volcanic    California 2019/8/31     Pinnacles    California 2020/7/3     Channel Islands    California 2020/11/24     Joshua Tree    California 2020/11/26     Death Valley    California 2020/11/28     Redwood    California 2021/5/27     Crater Lake    Oregon 2021/5/28     Mount Rainier    Washington 2021/5/29     Yosemite    California 2021/6/19     Acadia    Maine 2021/7/3     Olympic    Washington 2021/9/2     North Cascades    Washington 2021/9/4     Bryce Canyon    Utah 2021/11/23     Capitol Reef    Utah 2021/11/24     Grand Canyon    Arizona 2021/11/25      $(document).</description>
+      <description>Name Picture Location When Post      Lassen Volcanic    California 2019/8/31    Pinnacles    California 2020/7/3    Channel Islands    California 2020/11/24    Joshua Tree    California 2020/11/26    Death Valley    California 2020/11/28    Redwood    California 2021/5/27    Crater Lake    Oregon 2021/5/28    Mount Rainier    Washington 2021/5/29    Yosemite    California 2021/6/19 post    Acadia    Maine 2021/7/3    Olympic    Washington 2021/9/2    North Cascades    Washington 2021/9/4    Bryce Canyon    Utah 2021/11/23    Capitol Reef    Utah 2021/11/24    Grand Canyon    Arizona 2021/11/25     $(document).</description>
     </item>
     
     <item>
@@ -22,8 +35,14 @@
       <pubDate>Sat, 06 Nov 2021 21:28:28 -0700</pubDate>
       
       <guid>http://life.tczhong.com/movie/</guid>
-      <description>Favorite 国王排名 2021 25 min 动漫
+      <description>Favorite 阿甘正传 1994 142 min 剧情,爱情
+ 阿甘（汤姆·汉克斯 饰）于二战结束后不久出生在美国南方阿拉巴马州一个闭塞的小镇，他先天弱智，智商只有75，然而他的妈妈是一个性格坚强的女性，她常常鼓励阿甘“傻人有傻福”，要他自强不息。
+    国王排名 2021 25 min 动漫
  国家的丰饶、麾下勇者的数量、以及国王本人如何像勇者一般强大，这些要素的综合排名，便是所谓的“国王排名”。主人公波吉是国王排名第七名的伯斯王治下王国的第一王子。但是波吉却生来耳不能闻，贫弱到挥不动剑。
+    肖申克的救赎 1994  剧情,犯罪
+ 一场谋杀案使银行家安迪（蒂姆•罗宾斯 Tim Robbins 饰）蒙冤入狱，谋杀妻子及其情人的指控将囚禁他终生。在肖申克监狱的首次现身就让监狱“大哥”瑞德（摩根•弗里曼 Morgan Freeman 饰）对他另眼相看。瑞德帮助他搞到一把石锤和一幅女明星海报，两人渐成患难之交。
+    回到未来 1985 116 min 喜剧,科幻,冒险
+ 布朗博士（克里斯托弗•洛伊德 Christopher Lloyd 饰）总是有些稀奇古怪的发明。在一次试验他发明的时光机器时，他找来了忘年交高中生马丁（迈克尔•J•福克斯 Michael J. Fox 饰）。岂料实验过程中博士被歹徒杀害了，马丁慌乱中架着时光机逃跑，回到了30年前。
     </description>
     </item>
     
@@ -35,7 +54,7 @@
       <guid>http://life.tczhong.com/la/</guid>
       <description>test 12312
 12312
- 12312 asd       $(&#34;#content-gallery&#34;) .justifiedGallery({ rowHeight: 200, rel: &#34;gallery1&#34;, lastRow: &#34;nojustify&#34;, margins: 3, }) .on(&#34;jg.complete&#34;, function () { $(this).find(&#34;a&#34;).colorbox({ maxWidth: &#34;80%&#34;, maxHeight: &#34;80%&#34;, opacity: 0.8, transition: &#34;elastic&#34;, current: &#34;&#34;, }); });  </description>
+ 12312 asd       $(&#34;#content-gallery&#34;) .justifiedGallery({ rowHeight: 200, rel: &#34;content-gallery&#34;, lastRow: &#34;nojustify&#34;, margins: 3, }) .on(&#34;jg.complete&#34;, function () { $(this).find(&#34;a&#34;).colorbox({ maxWidth: &#34;80%&#34;, maxHeight: &#34;80%&#34;, opacity: 0.8, transition: &#34;elastic&#34;, current: &#34;&#34;, }); });  </description>
     </item>
     
   </channel>
