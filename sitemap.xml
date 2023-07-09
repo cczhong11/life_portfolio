@@ -20,6 +20,9 @@
     <loc>http://life.tczhong.com/la/</loc>
     <lastmod>2021-11-06T21:28:28-07:00</lastmod>
   </url><url>
+    <loc>http://life.tczhong.com/about/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>http://life.tczhong.com/categories/</loc>
   </url><url>
     <loc>http://life.tczhong.com/tags/</loc>
